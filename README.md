@@ -92,3 +92,10 @@ This project was undertaken as part of the **Maven Analytics Power BI Desktop co
 - **Return Rate Analysis:**  
   Specific product types, such as *Shorts*, showed higher return rates, indicating potential areas for product quality review or improved product descriptions.
 
+--
+
+## Repository Contents
+
+- `AdventureWorks Report PBIX.pdf`: The main Power BI project report exported as a PDF file.
+- `AdventureWorksRawData.zip`: Contains the raw datasets used for analysis.
+
